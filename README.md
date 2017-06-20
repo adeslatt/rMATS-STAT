@@ -85,7 +85,7 @@ The statistical code provided in the first section outputs the P values without 
 
 FDR Code Usage:
 --------------------------------
-$ python FDR.py input > output
+$ python FDR.py input  output
 
 The input file is the rMATS-STAT output from the previous step. The FDR.py code calculates the FDR and adds the FDR values to the last column of the output file.
 
